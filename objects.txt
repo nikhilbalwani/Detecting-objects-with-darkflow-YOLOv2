@@ -1,0 +1,126 @@
+Object detected: car
+Top Left coordinates: (59, 105)
+Bottom Right coordinates: (544, 237)
+Height: 132
+Width: 485
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (102, 181)
+Bottom Right coordinates: (125, 203)
+Height: 22
+Width: 23
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (162, 179)
+Bottom Right coordinates: (186, 197)
+Height: 18
+Width: 24
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (324, 200)
+Bottom Right coordinates: (361, 221)
+Height: 21
+Width: 37
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (250, 114)
+Bottom Right coordinates: (599, 321)
+Height: 207
+Width: 349
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (29, 216)
+Bottom Right coordinates: (75, 242)
+Height: 26
+Width: 46
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (86, 218)
+Bottom Right coordinates: (121, 241)
+Height: 23
+Width: 35
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (174, 219)
+Bottom Right coordinates: (216, 250)
+Height: 31
+Width: 42
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (208, 226)
+Bottom Right coordinates: (247, 260)
+Height: 34
+Width: 39
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (305, 223)
+Bottom Right coordinates: (347, 252)
+Height: 29
+Width: 42
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (460, 229)
+Bottom Right coordinates: (501, 259)
+Height: 30
+Width: 41
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (118, 241)
+Bottom Right coordinates: (162, 286)
+Height: 45
+Width: 44
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (399, 245)
+Bottom Right coordinates: (445, 278)
+Height: 33
+Width: 46
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (326, 258)
+Bottom Right coordinates: (371, 294)
+Height: 36
+Width: 45
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (491, 258)
+Bottom Right coordinates: (546, 295)
+Height: 37
+Width: 55
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (531, 284)
+Bottom Right coordinates: (598, 337)
+Height: 53
+Width: 67
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (42, 306)
+Bottom Right coordinates: (108, 368)
+Height: 62
+Width: 66
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (160, 302)
+Bottom Right coordinates: (225, 351)
+Height: 49
+Width: 65
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (445, 305)
+Bottom Right coordinates: (492, 350)
+Height: 45
+Width: 47
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (333, 330)
+Bottom Right coordinates: (416, 408)
+Height: 78
+Width: 83
+--------------------------------------------
+Object detected: car
+Top Left coordinates: (464, 329)
+Bottom Right coordinates: (555, 408)
+Height: 79
+Width: 91
+--------------------------------------------
